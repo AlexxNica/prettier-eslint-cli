@@ -1,6 +1,9 @@
-node_modules
 coverage
 dist
-.opt-in
-.opt-out
-
+node_modules
+.DS_Store
+.*cache
+*.log
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
